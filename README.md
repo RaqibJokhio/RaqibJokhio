@@ -39,22 +39,12 @@
 | **[ModelChain](https://model-chain-fyp.vercel.app/)** | Decentralized AI marketplace (3rd place 🏆) | Next.js, Solidity, IPFS |
 | **[ContextFlow AI](https://github.com/RaqibJokhio/ContextFlow-AI)** | Production RAG platform | Pinecone, Groq, FastAPI |
 | **[Resume Scanner](https://github.com/RaqibJokhio/ResumeScreener)** | AI resume parser & job-match scorer | Python, NLP, FastAPI |
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RaqibJokhio&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://streak-stats.demolab.com?user=RaqibJokhio&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaqibJokhio&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RaqibJokhio&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
